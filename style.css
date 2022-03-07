@@ -1,0 +1,30 @@
+*{
+    background-color: rgb(182, 182, 216);
+
+
+
+}
+h1{
+    text-align: center;
+    
+    font-family:'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    text-decoration: double;
+    
+}
+
+p{
+    color: rgb(8, 1, 1);
+    background-color: rgb(119, 187, 119);
+    text-align: center;
+}
+li{
+    text-align: left;
+    color: rgb(43, 38, 38);
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+}
+ul{
+    font-size: 16px;
+}
